@@ -1,0 +1,11 @@
+{
+	"recommendations": [
+		"astro-build.astro-vscode",
+		"csstools.postcss",
+		"dbaeumer.vscode-eslint",
+		"vunguyentuan.vscode-postcss"
+	],
+	"unwantedRecommendations": [
+		"esbenp.prettier-vscode"
+	]
+}
